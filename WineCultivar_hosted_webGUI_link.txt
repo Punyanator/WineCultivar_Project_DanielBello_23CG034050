@@ -1,6 +1,6 @@
 Name: Daniel Bello
-Matric Number: YOUR_MATRIC_NO
+Matric Number: 23CG034050
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live URL: https://your-render-link.onrender.com
-GitHub Repository: https://github.com/yourusername/WineCultivar_Project
+Live URL: https://winecultivar-project-danielbello.onrender.com
+GitHub Repository: https://github.com/Punyanator/WineCultivar_Project_DanielBello_23CG034050.git
